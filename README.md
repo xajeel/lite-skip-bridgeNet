@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ```
 
 ### 3️⃣ Prepare Dataset
-Dataset Link : [ https://github.com/xajeel/lite-skip-bridgeNet.git ]
+Dataset Link : [ https://drive.google.com/uc?id=1YVWVe-vAXDtgfali9Y3-TmjauoC-SCOD ]
 
 Place your images inside the `data/train/` and `data/test/` directories following this structure:
 ```
